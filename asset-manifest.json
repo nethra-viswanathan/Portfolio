@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.41352b2c.chunk.css",
+    "main.css": "/portfolio/static/css/main.7ccccbed.chunk.css",
     "main.js": "/portfolio/static/js/main.24195feb.chunk.js",
     "main.js.map": "/portfolio/static/js/main.24195feb.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.3a15e91b.js",
@@ -12,7 +12,7 @@
     "static/js/3.5d02c28c.chunk.js.map": "/portfolio/static/js/3.5d02c28c.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.3c703e91.chunk.css.map": "/portfolio/static/css/2.3c703e91.chunk.css.map",
-    "static/css/main.41352b2c.chunk.css.map": "/portfolio/static/css/main.41352b2c.chunk.css.map",
+    "static/css/main.7ccccbed.chunk.css.map": "/portfolio/static/css/main.7ccccbed.chunk.css.map",
     "static/js/2.154afb3b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.154afb3b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/LinkedIn photo.645de1c9.jpeg": "/portfolio/static/media/LinkedIn photo.645de1c9.jpeg",
@@ -163,7 +163,7 @@
     "static/js/runtime-main.3a15e91b.js",
     "static/css/2.3c703e91.chunk.css",
     "static/js/2.154afb3b.chunk.js",
-    "static/css/main.41352b2c.chunk.css",
+    "static/css/main.7ccccbed.chunk.css",
     "static/js/main.24195feb.chunk.js"
   ]
 }
