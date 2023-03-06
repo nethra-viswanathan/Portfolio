@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7ccccbed.chunk.css",
-    "main.js": "/portfolio/static/js/main.d4f28d36.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d4f28d36.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.7b941632.chunk.css",
+    "main.js": "/portfolio/static/js/main.7df2a7f6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7df2a7f6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.3a15e91b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.3a15e91b.js.map",
     "static/css/2.3c703e91.chunk.css": "/portfolio/static/css/2.3c703e91.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5d02c28c.chunk.js.map": "/portfolio/static/js/3.5d02c28c.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.3c703e91.chunk.css.map": "/portfolio/static/css/2.3c703e91.chunk.css.map",
-    "static/css/main.7ccccbed.chunk.css.map": "/portfolio/static/css/main.7ccccbed.chunk.css.map",
+    "static/css/main.7b941632.chunk.css.map": "/portfolio/static/css/main.7b941632.chunk.css.map",
     "static/js/2.4aa27951.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4aa27951.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/LinkedIn photo.645de1c9.jpeg": "/portfolio/static/media/LinkedIn photo.645de1c9.jpeg",
@@ -63,7 +63,7 @@
     "static/media/eduYellow.6b8f8b23.svg": "/portfolio/static/media/eduYellow.6b8f8b23.svg",
     "static/media/education.b36f03f4.gif": "/portfolio/static/media/education.b36f03f4.gif",
     "static/media/eight.98202b95.svg": "/portfolio/static/media/eight.98202b95.svg",
-    "static/media/emp.ba921a59.jpg": "/portfolio/static/media/emp.ba921a59.jpg",
+    "static/media/employee.78d4bf67.png": "/portfolio/static/media/employee.78d4bf67.png",
     "static/media/expBlack.777d4bba.svg": "/portfolio/static/media/expBlack.777d4bba.svg",
     "static/media/expBlue.159c6388.svg": "/portfolio/static/media/expBlue.159c6388.svg",
     "static/media/expGreen.dffa1cc6.svg": "/portfolio/static/media/expGreen.dffa1cc6.svg",
@@ -74,6 +74,7 @@
     "static/media/expPurple.96a6bf63.svg": "/portfolio/static/media/expPurple.96a6bf63.svg",
     "static/media/expRed.04b570c1.svg": "/portfolio/static/media/expRed.04b570c1.svg",
     "static/media/expYellow.22be417c.svg": "/portfolio/static/media/expYellow.22be417c.svg",
+    "static/media/faceRec.1733be29.png": "/portfolio/static/media/faceRec.1733be29.png",
     "static/media/fastify.1b930a41.svg": "/portfolio/static/media/fastify.1b930a41.svg",
     "static/media/figma.1cd44608.svg": "/portfolio/static/media/figma.1cd44608.svg",
     "static/media/firebase.99786447.svg": "/portfolio/static/media/firebase.99786447.svg",
@@ -131,7 +132,7 @@
     "static/media/react.2b6a0717.svg": "/portfolio/static/media/react.2b6a0717.svg",
     "static/media/redTheme-boy.846d9d39.svg": "/portfolio/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/portfolio/static/media/redTheme-girl.1ebbd52c.svg",
-    "static/media/resume.f65fcc67.pdf": "/portfolio/static/media/resume.f65fcc67.pdf",
+    "static/media/resume.7cec2d28.pdf": "/portfolio/static/media/resume.7cec2d28.pdf",
     "static/media/ruby.34e792ab.svg": "/portfolio/static/media/ruby.34e792ab.svg",
     "static/media/selenium.7dcf1c14.svg": "/portfolio/static/media/selenium.7dcf1c14.svg",
     "static/media/seven.3168c0a5.svg": "/portfolio/static/media/seven.3168c0a5.svg",
@@ -147,7 +148,7 @@
     "static/media/three.d4f751d1.svg": "/portfolio/static/media/three.d4f751d1.svg",
     "static/media/two.721a0672.svg": "/portfolio/static/media/two.721a0672.svg",
     "static/media/typescript.31f8fee8.svg": "/portfolio/static/media/typescript.31f8fee8.svg",
-    "static/media/uni.ff09f8da.jpg": "/portfolio/static/media/uni.ff09f8da.jpg",
+    "static/media/uniSearch.ec786607.png": "/portfolio/static/media/uniSearch.ec786607.png",
     "static/media/unity.ad58069d.svg": "/portfolio/static/media/unity.ad58069d.svg",
     "static/media/vitejs.b99f0b09.svg": "/portfolio/static/media/vitejs.b99f0b09.svg",
     "static/media/vue.47bdfb5a.svg": "/portfolio/static/media/vue.47bdfb5a.svg",
@@ -163,7 +164,7 @@
     "static/js/runtime-main.3a15e91b.js",
     "static/css/2.3c703e91.chunk.css",
     "static/js/2.4aa27951.chunk.js",
-    "static/css/main.7ccccbed.chunk.css",
-    "static/js/main.d4f28d36.chunk.js"
+    "static/css/main.7b941632.chunk.css",
+    "static/js/main.7df2a7f6.chunk.js"
   ]
 }
