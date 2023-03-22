@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7b941632.chunk.css",
-    "main.js": "/portfolio/static/js/main.a4ad1fba.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a4ad1fba.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.53b95ee1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.53b95ee1.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.3a15e91b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.3a15e91b.js.map",
     "static/css/2.3c703e91.chunk.css": "/portfolio/static/css/2.3c703e91.chunk.css",
@@ -33,6 +33,7 @@
     "static/media/bwTheme-boy.fbbb191f.svg": "/portfolio/static/media/bwTheme-boy.fbbb191f.svg",
     "static/media/bwTheme-girl.c74f28ac.svg": "/portfolio/static/media/bwTheme-girl.c74f28ac.svg",
     "static/media/c.77377419.svg": "/portfolio/static/media/c.77377419.svg",
+    "static/media/calculator.536e3b06.png": "/portfolio/static/media/calculator.536e3b06.png",
     "static/media/canva.b96f915b.svg": "/portfolio/static/media/canva.b96f915b.svg",
     "static/media/capacitorjs.7517cfe2.svg": "/portfolio/static/media/capacitorjs.7517cfe2.svg",
     "static/media/coffeescript.848d1c77.svg": "/portfolio/static/media/coffeescript.848d1c77.svg",
@@ -166,6 +167,6 @@
     "static/css/2.3c703e91.chunk.css",
     "static/js/2.12d45c15.chunk.js",
     "static/css/main.7b941632.chunk.css",
-    "static/js/main.a4ad1fba.chunk.js"
+    "static/js/main.53b95ee1.chunk.js"
   ]
 }
