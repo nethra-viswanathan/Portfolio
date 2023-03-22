@@ -11,7 +11,8 @@ import ten from '../assets/svg/projects/ten.svg'
 import emp from '../assets/svg/projects/employee.png'
 import uniS from '../assets/svg/projects/uniSearch.png'
 import face from '../assets/svg/projects/faceRec.png'
-
+import signin from '../assets/svg/projects/singin.png'
+import calc from '../assets/svg/projects/calculator.png'
 
 export const projectsData = [
     {
@@ -41,33 +42,33 @@ export const projectsData = [
         demo: '',
         image: face
     },
-    // {
-    //     id: 4,
-    //     projectName: 'Android Patient Tracker',
-    //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-    //     tags: ['Flutter', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
-    // },
-    // {
-    //     id: 5,
-    //     projectName: 'E-Commerce App',
-    //     projectDesc: 'A Simple E-commerce application',
-    //     tags: ['React Native', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: five
-    // },
-    // {
-    //     id: 6,
-    //     projectName: 'Uber Lite',
-    //     projectDesc: 'Uber clone',
-    //     tags: ['Flutter'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: six
-    // },
+    {
+        id: 4,
+        projectName: 'To-Do Application',
+        projectDesc: 'A simple To-Do application built using MERN stack.',
+        tags: ['React','MongoDB','ExpressJS',"NodeJS"],
+        code: 'https://github.com/nethra-viswanathan/ToDo',
+        demo: '',
+        image: four
+    },
+    {
+        id: 5,
+        projectName: 'Sign In',
+        projectDesc: 'A simple application that displays logged history built using MERN stack.',
+        tags: ['React','MongoDB','ExpressJS',"NodeJS"],
+        code: 'https://github.com/nethra-viswanathan/SignIn',
+        demo: '',
+        image: signin
+    },
+    {
+        id: 6,
+        projectName: 'Calculator',
+        projectDesc: 'A simple calculator application built using Canvas API in JavaScript',
+        tags: ['Canvas API','JavaScript','SASS'],
+        code: 'https://github.com/nethra-viswanathan/canvasCalculator',
+        demo: '',
+        image: calc
+    },
     // {
     //     id: 7,
     //     projectName: 'Stock Market App',

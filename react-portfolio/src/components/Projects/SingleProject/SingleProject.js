@@ -39,7 +39,9 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
             <div
                 key={id}
                 className='singleProject'
-                style={{ backgroundColor: "#fff" , border: `2px solid ${theme.secondary}`}}
+                style={{ backgroundColor: "#fff" , 
+                // border: `2px solid ${theme.secondary}`
+            }}
             >
                 <div className='projectContent'>
                     <h2

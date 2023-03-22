@@ -33,8 +33,8 @@ function ProjectPage() {
             fontFamily: "'Noto Sans TC', sans-serif",
             fontWeight: 500,
             fontSize: '0.9rem',  
-            backgroundColor: theme.secondary, 
-            boxShadow: theme.type === 'dark' ? 'inset 3px 3px 6px #ffffff10, inset -3px -3px 6px #00000060' : 'inset 3px 3px 6px #ffffffbd, inset -3px -3px 6px #00000030',
+            border: "2px solid "+theme.secondary, 
+            // boxShadow: theme.type === 'dark' ? 'inset 3px 3px 6px #ffffff10, inset -3px -3px 6px #00000060' : 'inset 3px 3px 6px #ffffffbd, inset -3px -3px 6px #00000030',
             "&::placeholder": {
                 color: theme.tertiary80, 
             },
@@ -52,7 +52,7 @@ function ProjectPage() {
             boxSizing: 'content-box',
             fontSize: '2rem',
             cursor: 'pointer',
-            boxShadow: theme.type === 'dark' ? '3px 3px 6px #ffffff40, -3px -3px 6px #00000050' : '3px 3px 6px #ffffff40, -3px -3px 6px #00000050',
+            // boxShadow: theme.type === 'dark' ? '3px 3px 6px #ffffff40, -3px -3px 6px #00000050' : '3px 3px 6px #ffffff40, -3px -3px 6px #00000050',
             transition: 'all 0.3s ease-in-out',
             "&:hover": 
             {
@@ -68,7 +68,7 @@ function ProjectPage() {
     const classes = useStyles();
 
     return (
-        <div className="projectPage" style={{backgroundColor: theme.secondary}}>
+        <div className="projectPage" style={{backgroundColor: theme.secondaryBg}}>
             <Helmet>
                 <title>{headerData.name} | Projects</title>
             </Helmet>
