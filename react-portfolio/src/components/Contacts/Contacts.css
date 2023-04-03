@@ -169,6 +169,7 @@
 
 
 @media (min-width: 992px) and (max-width: 1380px) {
+    
     .contacts--img {
         position: absolute;
         right: 0;
@@ -184,6 +185,9 @@
 
 
 @media screen and (max-width: 992px) {
+    .contacts{
+        min-height: auto;
+    }
     .contacts--img {
         display: none;
     }
